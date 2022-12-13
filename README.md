@@ -34,10 +34,10 @@ Speed comparisons My own computer is about 60 hours, 20 cores at the same time i
 
 ### 7. Data analyzing and Data Visualization
 1. comparison of three methods
-1.1 In same age-range
+1.1 In same age-range\
 1.2 Age-range with other ranges
 
-2. For vector, first we also generate the vector of all pictures(.csv) for future use. 
+2. For vector, first we also generate the vector of all pictures(.csv) for future use. \
 2.1 Plot the vectors of all pictures in one plot: PCA ; t-SNE
 2.2 Plot the vector  fo one person: PCA ; t-SNE
 
