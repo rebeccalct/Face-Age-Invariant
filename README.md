@@ -33,13 +33,14 @@ to install some packages, otherwise access denied. To parallelize, you must def 
 Speed comparisons My own computer is about 60 hours, 20 cores at the same time is about 2.5 hours.
 
 ### 7. Data analyzing and Data Visualization
-1. comparison of three methods\
-1.1 In same age-range\
-1.2 Age-range with other ranges
+comparison of three methods\
+1 In same age-range\
+2 Age-range with other ranges
 
-2. For vector, first we also generate the vector of all pictures(.csv) for future use. \
-2.1 Plot the vectors of all pictures in one plot: PCA ; t-SNE\
-2.2 Plot the vector  fo one person: PCA ; t-SNE
+## 8. VECTOR
+For vector, first we also generate the vector of all pictures(.csv) for future use. \
+1.Plot the vectors of all pictures in one plot: PCA ; t-SNE\
+2.Plot the vector  fo one person: PCA ; t-SNE
 
 
 
