@@ -1,0 +1,12 @@
+188102 comparisons by Uppmax: 
+
+deepface:
+Time: 4669.6034 seconds * 2 = 9338 seconds (156min)
+
+insightface_paddle:
+Time: 5441.2 seconds * 2 = 10882 seconds (181min)
+
+Insightface
+Time: 5320.7  seconds * 2 = 10640 seconds (177min）
+
+by own computer: about 60 hours
