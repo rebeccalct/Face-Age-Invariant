@@ -6,12 +6,14 @@ Currently we are using AgeDB datasetthe first manually collected, in-the-wild ag
 
 ### 2. Data cleaning
 From raw datasets, we noticed the labels of some pictures are wrong. So we have to revise them or delete them directly.
-1. remove all pictures with more than one face \\
-example:
+1. remove all pictures with more than one face 
+
 ![image](https://user-images.githubusercontent.com/94723993/207734980-f538a88e-d8cf-41e4-a35a-20da56911954.png)
 
+49 pictures are detected to have more than one face.
+
 2. fix wrong "gender" 
-example:
+
 ![image](https://user-images.githubusercontent.com/94723993/207735666-f5df9b5f-e529-4061-ac17-5f2eb80358cb.png)
 
 ### 3. Picture re-organization
