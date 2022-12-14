@@ -12,8 +12,8 @@ From raw datasets, we noticed the labels of some pictures are wrong. So we have 
 
 2. fix wrong "gender" 
 ![image](https://user-images.githubusercontent.com/94723993/207735666-f5df9b5f-e529-4061-ac17-5f2eb80358cb.png)
-Detailed wrong "gender" information are recorded [here.](https://github.com/rebeccalct/Face-Age-Invariant/blob/main/2%20data%20cleaning/WrongGenderInformation.pdf)
-The dataset after cleaning can be [download.](https://drive.google.com/file/d/1RFP_uNhrCpFL1fDcJ_7I_hG9WDcYjepG/view?usp=sharing)
+Detailed wrong "gender" information has [recorded.](https://github.com/rebeccalct/Face-Age-Invariant/blob/main/2%20data%20cleaning/WrongGenderInformation.pdf)
+The dataset after cleaning can be download [here.](https://drive.google.com/file/d/1RFP_uNhrCpFL1fDcJ_7I_hG9WDcYjepG/view?usp=sharing)
 
 ### 3. Picture re-organization
 The dataset is sorted to get the serial number of each person. Every picture is renamed by the age.jpg.
