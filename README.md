@@ -11,6 +11,8 @@ example:
 ![image](https://user-images.githubusercontent.com/94723993/207734980-f538a88e-d8cf-41e4-a35a-20da56911954.png)
 
 2. fix wrong "gender" 
+example:
+![image](https://user-images.githubusercontent.com/94723993/207735666-f5df9b5f-e529-4061-ac17-5f2eb80358cb.png)
 
 ### 3. Picture re-organization
 The dataset is sorted to get the serial number of each person. Every picture is renamed by the age.jpg.
