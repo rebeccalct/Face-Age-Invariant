@@ -6,8 +6,8 @@ Currently we are using AgeDB datasetthe first manually collected, in-the-wild ag
 
 ### 2. Data cleaning
 From raw datasets, we noticed the labels of some pictures are wrong. So we have to revise them or delete them directly.
-1. wrong "gender"
-2. more than one face in the picture
+1. remove all pictures with more than one face
+2. fix wrong "gender" 
 
 ### 3. Picture re-organization
 The dataset is sorted to get the serial number of each person. Every picture is renamed by the age.jpg.
